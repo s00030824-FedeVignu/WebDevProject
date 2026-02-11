@@ -111,7 +111,7 @@ th {
   gap: 3rem;
 }
 
-.contact-form .form-group {
+.form-group {
   display: flex;
   flex-direction: column;
   margin-bottom: 1rem;
@@ -164,3 +164,4 @@ th {
     display: block;
   }
 }
+
